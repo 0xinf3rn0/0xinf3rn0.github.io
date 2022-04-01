@@ -1,27 +1,47 @@
-<h1 align="center">Hi 👋, I'm Shayan Paul</h1>
-<h3 align="center">A cybersecurity enthusiast, bug hunter.</h3>
+## WhoAMI
 
-- 🌱 I’m currently learning **Webapp security**
+**Hi there 👋**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shayansec/](https://github.com/shayansec/)
+**I am Shayan Paul a technophile who loves playing with technologies, loves to break security. Besides a CS student I also do bug hunting.**
 
-- 📝 Read my blogs [https://shayansec.me](https://shayansec.me)
+### Learning
+- 🔰 Bug Hunting
+- 🔰 Python
+- 🔰 Shell Scripting
+- 🔰 Webapp Pentesting
 
-- 📫 How to reach me **shayanpaul056@gmail.com**
+### Hobbies
+- 🔰 Playing Games
+- 🔰 Watching animes, sci-fi movies
+- 🔰 Listening Hip-Hop
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shayansec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayansec" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shayansec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayansec" height="30" width="40" /></a>
-<a href="https://instagram.com/shayansec_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayansec_" height="30" width="40" /></a>
-<a href="https://medium.com/@shayansec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shayansec" height="30" width="40" /></a>
+## Personal Intro
+I am just an average guy who was not a techie at all. I loves to listen hip-hop and hard rock so much in my high school. One day while scrolling Youtube one video grab my attention, it was about **bug hunting** and getting **$$$**.
+
+Then I started dreaming about hacking. Getting my hands dirty with Kali Linux and reading lots of articles on **InfoSec**. That's how my journey begins...
+
+## Resources I Follow
+- 🔰 [Web Security Academy](https://portswigger.net/web-security/learning-path)
+- 🔰 [Hacke101](https://www.hacker101.com/resources.html)
+- 🔰 [HackeOne Hacktivity](https://hackerone.com/hacktivity)
+- 🔰 [InfoSec Community](https://medium.com/bugbountywriteup)
+- 🔰 [Twitter Bug Bounty Community](https://twitter.com/shayansec/following)
+
+## End note
+Well I am learning day by day and making myself better than yesterday. I know that becoming 1% better everyday, Ican achieve all goals.
+
+## Other Accounts 📫
+
+You can find and get touch with me on these accounts!
+- 🔰 [Twitter](https://twitter.com/shayansec)
+- 🔰 [Linkedin](https://www.linkedin.com/in/shayansec)
+- 🔰 [Instagram](https://www.instagram.com/shayansec_)
+- 🔰 [Hackerone](https://hackerone.com/shayansec)
+- 🔰 [Bugcrowd](https://bugcrowd.com/shayansec)
+
+##
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=shayansec&&show_icons=true&theme=radical"/>
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayansec&show_icons=true&locale=en&layout=compact" alt="shayansec" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayansec&show_icons=true&locale=en" alt="shayansec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayansec&" alt="shayansec" /></p>
