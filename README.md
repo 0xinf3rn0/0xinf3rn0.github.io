@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shayan Paul</h1>
-<h3 align="center">A cybersecurity enthusiast, bug hunter.</h3>
+<h3 align="center">A cybersecurity enthusiast bug hunter.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayansec" alt="shayansec" /></a> </p>
+
+- 🌱 I’m currently learning **Webapp security**
+
+- 👨‍💻 All of my projects are available at [https://github.com/shayansec/](https://github.com/shayansec/)
+
+- 📝 Read my blogs [https://shayansec.me](https://shayansec.me)
+
+- 📫 How to reach me **shayanpaul056@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
