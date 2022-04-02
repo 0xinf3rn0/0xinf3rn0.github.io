@@ -1,4 +1,4 @@
-## WhoAMI
+## WhoAmI
 
 **Hi there 👋**
 
@@ -28,9 +28,9 @@ Then I started dreaming about hacking. Getting my hands dirty with Kali Linux an
 - 🔰 [Twitter Bug Bounty Community](https://twitter.com/shayansec/following)
 
 ## End note
-Well I am learning day by day and making myself better than yesterday. I know that becoming 1% better everyday, Ican achieve all goals.
+Well I am learning day by day and making myself better than yesterday. I know that if I can better 1% everyday, I can achieve all my goals.
 
-## Other Accounts 📫
+## Other Accounts
 
 You can find and get touch with me on these accounts!
 - 🔰 [Twitter](https://twitter.com/shayansec)
