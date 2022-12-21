@@ -29,7 +29,7 @@ Hi!! I am Shayan Paul, a cybersecurity enthusiast and bug bounty hunter. Current
 
 ## Resources I Follow
 - 🔰 [Web Security Academy](https://portswigger.net/web-security/learning-path)
-- 🔰 [Hacke101](https://www.hacker101.com/resources.html)
+- 🔰 [Hacker101](https://www.hacker101.com/resources.html)
 - 🔰 [HackeOne Hacktivity](https://hackerone.com/hacktivity)
 - 🔰 [InfoSec Community](https://medium.com/bugbountywriteup)
 - 🔰 [Twitter Bug Bounty Community](https://twitter.com/shayansec/following)
