@@ -31,8 +31,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shayansec) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shayansec)
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=shayansec&theme=radical&show_icons=true"/>
-</a>
-</p>
+## 🏆 Github Stats:
+![shayansec's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayansec&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayansec&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
